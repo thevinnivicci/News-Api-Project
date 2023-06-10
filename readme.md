@@ -1,0 +1,1 @@
+Welcome to the News Website repository! This GitHub project provides a comprehensive solution for building a news website that displays real-time news articles from various reliable sources. With this repository, you can create a powerful and user-friendly platform to keep your audience informed and engaged with the latest news.
